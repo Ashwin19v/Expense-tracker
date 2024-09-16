@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://expense-tracker-backend-hffd.onrender.com";
 
 export const loginRoute = `${API_URL}/auth/login`;
 export const registerRoute = `${API_URL}/auth/register`;
